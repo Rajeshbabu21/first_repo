@@ -1,0 +1,72 @@
+<!-- this is the html version -->
+<!DOCTYPE html>
+
+<!-- here all the website contents -->
+<html>
+  <head>
+    <!-- title of the website -->
+    <title>DOCUMENTATION</title>
+  </head>
+
+  <!-- content -->
+  <body>
+    <!-- this is for design -->
+    <!-- <h1>hello this my <sup>first</sup> webpage 
+    <sup>always</sup> welcomes you <sub>hi this
+         is my</sub></h1> -->
+
+    <!-- for bold and itallic -->
+    <!-- <p>Lorem ipsum dolor sit amet consectetur  -->
+    <!-- adipisicing <strong>Distinctio, magni</strong> .</p> -->
+
+    <!-- for emphasis -->
+    <!-- <p>Lorem <strong>ipsum dolor sit amet</strong>ipsum dolor sit amet consectetur adipisicing elit. Harum numquam quidem cupiditate reprehenderit non velit necessitatibus tenetur, omnis fugit iste, sunt explicabo nihil nemo nisi? Maxime sint dignissimos doloribus! Eaque vitae adipisci veniam hic, quidem voluptatem molestiae! Quod, possimus, sunt voluptatum architecto sint ducimus nam nostrum illum culpa aspernatur, et quaerat! Maxime explicabo totam, ut nulla, ratione distinctio, dolor ducimus natus corporis temporibus velit amet asperiores magnam excepturi molestiae. Error corporis dolor provident suscipit, quis aspernatur nulla soluta fugiat aliquam illo reprehenderit ipsam quidem sapiente laudantium maiores, ducimus molestias quibusdam obcaecati placeat nisi consectetur unde ea hic. Quibusdam illo minima aliquid, culpa ipsa nobis amet reprehenderit. Quae, beatae delectus ullam pariatur officiis dolorum perferendis consectetur minus. Libero quod, numquam dolorum dolores temporibus beatae laboriosam distinctio asperiores sit. Sequi minima corrupti minus sit similique laboriosam aliquid sed omnis eum quasi suscipit placeat hic qui  -->
+    <!-- fugit ea saepe, odit <em>sit amet ipsum dolor sit</em>  quidem neque?</p> -->
+
+    <!-- for copy right symbol 
+            <h1>copyright  &COPY;</h1> -->
+
+    <!-- for unorder and umorder list -->
+
+    <!-- <ul>
+        <li><a href="about.html">about</a></li> 
+    </ul> -->
+
+    <!-- for ordered list -->
+    <!-- <ol>
+
+
+
+<li>
+    john
+    ramesh
+</li>
+    </ol> -->
+
+    <!-- for table -->
+    <!-- tr for row -->
+    <!-- td means coulmn -->
+    <!-- th means heading -->
+    <table>
+      <tr>
+        <th>some of the names</th>
+      </tr>
+      <tr>
+        
+        <td>rajesh</td>
+        <td>rajesh</td>
+        <td>rajesh</td>
+      </tr>
+
+      <tr>
+        <th>some of the names</th>
+      </tr>
+</html>
+      <tr>
+        
+        <td>rajesh</td>
+        <td>rajesh</td>
+        <td>rajesh</td>
+      </tr>
+    </table>
+  </body>
